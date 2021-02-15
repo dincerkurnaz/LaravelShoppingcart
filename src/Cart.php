@@ -1,7 +1,7 @@
 <?php
 
 namespace Gloudemans\Shoppingcart;
-
+echo "deneme"
 use Closure;
 use Illuminate\Support\Collection;
 use Illuminate\Session\SessionManager;
